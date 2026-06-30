@@ -30,41 +30,41 @@
 | Professional experiences | ![0](https://progress-bar.xyz/0/?title=0/2&color=2b2b2b) |
 
 ## Unix/Kernel
-| Project | Score | Repo | Experience | Status |
-|---------|-------| ------| --- | --- |
-|ft_linux|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 4,200 xp | En cours
-|little-penguin-1|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 9,450 xp | -
-|kfs-1|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 15,750 xp | -
-|kfs-2|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 15,750 xp | -
+| Project | Score | Repo | Experience | Estimated time | Status |
+|---------|-------| ------| --- | --- | --- |
+|ft_linux|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 4,200 xp | 49h | En cours
+|little-penguin-1|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 9,450 xp | 100h | -
+|kfs-1|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 15,750 xp | 294h | -
+|kfs-2|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 15,750 xp | 294h | -
 
 ![0](https://progress-bar.xyz/0/?title=Projects%200/2&color=2b2b2b)
 ![0](https://progress-bar.xyz/0/?title=Experience%200/30.0k&color=2b2b2b)
 ## System administration
-| Project | Score | Repo | Experience | Status |
-|---------|-------| ------| --- | --- |
-|[ft_ping](https://github.com/42Lausanne-fltorren/ft_ping)|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 4,200 xp | Correction
-|ft_traceroute|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 4,200 xp | -
-|ft_nmap|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 15,750 xp | -
-|Inception-of-Things|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 25,450 xp | -
-|cloud-1|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 9,450 xp | -
+| Project | Score | Repo | Experience | Estimated time | Status |
+|---------|-------| ------| --- | --- | --- |
+|[ft_ping](https://github.com/42Lausanne-fltorren/ft_ping)|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 4,200 xp | 49h | Correction
+|ft_traceroute|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 4,200 xp | 49h | -
+|ft_nmap|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 15,750 xp | 49h | -
+|Inception-of-Things|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 25,450 xp | 200h | -
+|cloud-1|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 9,450 xp | 100h | -
 
 ![0](https://progress-bar.xyz/0/?title=Projects%200/3&color=2b2b2b)
 ![0](https://progress-bar.xyz/0/?title=Experience%200/50.0k&color=2b2b2b)
 ## Security
-| Project | Score | Repo | Experience | Status |
-|---------|-------| ------| --- | --- |
-|woody-woodpacker|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 9,450 xp | -
-|famine|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 9,450 xp | -
-|pestilence|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 15,750 xp | -
-|ft_shield|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 15,750 xp | -
+| Project | Score | Repo | Experience | Estimated time | Status |
+|---------|-------| ------| --- | --- | --- |
+|woody-woodpacker|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 9,450 xp | 49h | -
+|famine|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 9,450 xp | 98h | -
+|pestilence|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 15,750 xp | 98h | -
+|ft_shield|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 15,750 xp | 196h | -
 
 ![0](https://progress-bar.xyz/0/?title=Projects%200/3&color=2b2b2b)
 ![0](https://progress-bar.xyz/0/?title=Experience%200/50.0k&color=2b2b2b)
 ## Suite
-| Project | Score | Repo | Experience | Status |
-|---------|-------| ------| --- | --- |
-|kfs-2|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 15,750 xp | -
-|pestilence|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 15,750 xp | -
-|Inception-of-Things|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 25,450 xp | -
+| Project | Score | Repo | Experience | Estimated time | Status |
+|---------|-------| ------| --- | --- | --- |
+|kfs-2|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 15,750 xp | 294h | -
+|pestilence|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 15,750 xp | 98h | -
+|Inception-of-Things|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 25,450 xp | 200h | -
 
 ![0](https://progress-bar.xyz/0/?title=Projects%200/1&color=2b2b2b)
