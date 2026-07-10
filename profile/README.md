@@ -48,7 +48,7 @@
 |Inception-of-Things|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 25,450 xp | 200h | -
 |cloud-1|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 9,450 xp | 100h | -
 
-![0](https://progress-bar.xyz/1/?title=Projects%201/3&color=2b2b2b)
+![0](https://progress-bar.xyz/33/?title=Projects%201/3&color=2b2b2b)
 ![0](https://progress-bar.xyz/15/?title=Experience%204k6/50.0k&color=2b2b2b)
 ## Security
 | Project | Score | Repo | Experience | Estimated time | Status |
