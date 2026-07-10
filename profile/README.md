@@ -32,13 +32,13 @@
 ## Unix/Kernel
 | Project | Score | Repo | Experience | Estimated time | Status |
 |---------|-------| ------| --- | --- | --- |
-|[ft_linux](https://github.com/42Lausanne-fltorren/ft_linux)|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 4,200 xp | 49h | En cours
+|[ft_linux](https://github.com/42Lausanne-fltorren/ft_linux)|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 4,620 xp | 49h | En cours
 |little-penguin-1|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 9,450 xp | 100h | -
 |kfs-1|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 15,750 xp | 294h | -
 |kfs-2|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 15,750 xp | 294h | -
 
-![0](https://progress-bar.xyz/0/?title=Projects%200/2&color=2b2b2b)
-![0](https://progress-bar.xyz/0/?title=Experience%200/30.0k&color=2b2b2b)
+![0](https://progress-bar.xyz/1/?title=Projects%201/2&color=2b2b2b)
+![0](https://progress-bar.xyz/15.4/?title=Experience%205k/30.0k&color=2b2b2b)
 ## System administration
 | Project | Score | Repo | Experience | Estimated time | Status |
 |---------|-------| ------| --- | --- | --- |
