@@ -43,13 +43,13 @@
 | Project | Score | Repo | Experience | Estimated time | Status |
 |---------|-------| ------| --- | --- | --- |
 |[ft_ping](https://github.com/42Lausanne-fltorren/ft_ping)|![0](https://progress-bar.xyz/100/?title=110/100&color=2b2b2b)| --- | 4,200 xp | 49h | DONE
-|[ft_traceroute](https://github.com/42Lausanne-fltorren/ft_traceroute)|![0](https://progress-bar.xyz/0/?title=110/100&color=2b2b2b)| --- | 4,200 xp | 49h | DONE
+|[ft_traceroute](https://github.com/42Lausanne-fltorren/ft_traceroute)|![0](https://progress-bar.xyz/100/?title=110/100&color=2b2b2b)| --- | 4,200 xp | 49h | DONE
 |ft_nmap|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 15,750 xp | 49h | -
 |Inception-of-Things|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 25,450 xp | 200h | -
 |cloud-1|![0](https://progress-bar.xyz/0/?title=0/100&color=2b2b2b)| --- | 9,450 xp | 100h | -
 
-![0](https://progress-bar.xyz/33/?title=Projects%202/3&color=2b2b2b)
-![0](https://progress-bar.xyz/15/?title=Experience%209k2/50.0k&color=2b2b2b)
+![0](https://progress-bar.xyz/66/?title=Projects%202/3&color=2b2b2b)
+![0](https://progress-bar.xyz/30/?title=Experience%209k2/50.0k&color=2b2b2b)
 ## Security
 | Project | Score | Repo | Experience | Estimated time | Status |
 |---------|-------| ------| --- | --- | --- |
